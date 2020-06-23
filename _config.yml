@@ -1,28 +1,28 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: Qi ZHAO
+subtitle: qzhao's homepage
+description: Welcome to my personal website~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: qzhao
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: Machine Learning & Deep Learning 
 url: "http://baixin.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: qzhao
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    # weibo: 5366874726 
+    github: qzhao19
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    # jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: qi.zhao1991@gmail.com
 
 
 # 百度统计 
@@ -58,13 +58,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: Blogs
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: All articls, description: archive, url: '/archive'}   
+    - {title: Tags, description: tags, url: '/tags'}      
+    - {title: About me, description: about, url: '/about'}      
     
 
 # Pagination
