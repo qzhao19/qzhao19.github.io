@@ -1,11 +1,11 @@
 # Basic
 title: Qi ZHAO
-subtitle: qzhao's homepage
-description: Welcome to my personal website~
+# subtitle: qzhao's homepage
+description: Welcome to qzhao's homepage~
 # 头像里面的标题
 avatarTitle: qzhao
 # 头像里面的描述
-avatarDesc: Machine Learning & Deep Learning 
+avatarDesc: Machine Learning
 url: "http://baixin.io"
 
 # Comment
@@ -62,7 +62,7 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: All articls, description: archive, url: '/archive'}   
+    - {title: All articles, description: archive, url: '/archive'}   
     - {title: Tags, description: tags, url: '/tags'}      
     - {title: About me, description: about, url: '/about'}      
     
